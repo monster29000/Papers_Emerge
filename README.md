@@ -1,1 +1,3 @@
 # Papers_Emerge
+##根据Energy-Aware_Task_Offloading_and_Resource_Allocation_for_Time-Sensitive_Services_in_Mobile_Edge_Computing_Systems这篇文章的推导过程，完善Thermal_Aware_Latency_Minimization_for_Mobile_Edge_Computing_Networks这篇论文的成分分析部分！##
+工作流程会随之更新
